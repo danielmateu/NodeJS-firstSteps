@@ -10,9 +10,6 @@
   "author": "Daniel Mateu",
   "license": "MIT",
   "dependencies": {
-    "colors": "^1.4.0"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.20"
+    "colors": "^1.0.0"
   }
 }
