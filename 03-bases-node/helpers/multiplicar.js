@@ -12,6 +12,7 @@ const crearArchivo = async (base = 5) => {
     for (let i = 1; i <= 10; i++) {
         let operacion = i * base;
         salida += `${base} X ${i} = ${operacion}\n`;
+        
     }
 
     console.log(salida)
