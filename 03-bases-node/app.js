@@ -1,5 +1,6 @@
 
 const { crearArchivo } = require('./helpers/multiplicar');
+const argv = require('yargs/yargs')
 
 // 5 x 1 = 5
 // 5 x 2 = 5
